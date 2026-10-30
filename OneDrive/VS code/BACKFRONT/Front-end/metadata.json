@@ -1,0 +1,6 @@
+{
+  "name": "SAJAG - Smart Navigation & Safety Platform",
+  "description": "Intelligent AI/ML-assisted navigation platform for safe routing, risk awareness, live monitoring, and emergency assistance.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
